@@ -16,7 +16,7 @@ namespace HWID_Spoof
         public const string Name = "HWID_Spoof";
         public const string Author = "Herp Derpinstine, Slaynash";
         public const string Company = "NanoNuke @ nanonuke.net";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
     }
     [VRCModInfo(ModInfo.Name, ModInfo.Version, ModInfo.Author)]
 
